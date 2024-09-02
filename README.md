@@ -1,8 +1,8 @@
 ### DreamBooth Hackathon: 반려동물 dataset으로 진행
 - dataset image
-
-- result
-
+![dataset](dataset.png)
+- result image
+![result](result.png)
 ---
 license: creativeml-openrail-m
 tags:
