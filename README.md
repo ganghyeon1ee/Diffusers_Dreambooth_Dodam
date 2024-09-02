@@ -33,6 +33,3 @@ pipeline = StableDiffusionPipeline.from_pretrained('ganghyeon/swimming-dodam')
 image = pipeline().images[0]
 image
 ```
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/31ae14f8-baab-4d86-8b53-c2f57e294209/816e4a21-2edd-4346-812c-6d10a43f2a40/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/31ae14f8-baab-4d86-8b53-c2f57e294209/5c993a91-d4bc-4ba2-9978-c791e67ab884/Untitled.png)
